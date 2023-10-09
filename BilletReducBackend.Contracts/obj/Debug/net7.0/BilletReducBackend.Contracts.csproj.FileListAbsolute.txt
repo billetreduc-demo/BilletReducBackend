@@ -1,0 +1,12 @@
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/bin/Debug/net7.0/BilletReducBackend.Contracts.deps.json
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/bin/Debug/net7.0/BilletReducBackend.Contracts.dll
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/bin/Debug/net7.0/BilletReducBackend.Contracts.pdb
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/BilletReducBackend.Contracts.csproj.AssemblyReference.cache
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/BilletReducBackend.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/BilletReducBackend.Contracts.AssemblyInfoInputs.cache
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/BilletReducBackend.Contracts.AssemblyInfo.cs
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/BilletReducBackend.Contracts.csproj.CoreCompileInputs.cache
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/BilletReducBackend.Contracts.dll
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/refint/BilletReducBackend.Contracts.dll
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/BilletReducBackend.Contracts.pdb
+/home/kristian/Projects/billet-reduc/BilletReducBackend/BilletReducBackend.Contracts/obj/Debug/net7.0/ref/BilletReducBackend.Contracts.dll
